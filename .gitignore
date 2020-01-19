@@ -11,3 +11,5 @@ __pycache__
 
 .DS_Store
 .ipynb_checkpoints
+train.csv
+test.csv
