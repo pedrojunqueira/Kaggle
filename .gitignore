@@ -1,0 +1,13 @@
+*.py[cod]
+
+# C extensions
+*.so
+
+# Packages
+dist
+build
+bin
+__pycache__
+
+.DS_Store
+.ipynb_checkpoints
